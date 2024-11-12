@@ -1,4 +1,4 @@
-<img width="1470" alt="Screenshot 2024-04-26 at 12 15 21 AM" src="https://github.com/user-attachments/assets/4fc66942-d4fb-48da-9ce9-fdb345ef6872"># Deepchat
+# Deepchat
 
 
 Deep Chat is an advanced chatbot application designed to provide meaningful and conversational responses. This project integrates multiple frameworks and libraries, combining the power of Express, Golang, and various other tools to deliver a robust, responsive, and interactive chat experience.
